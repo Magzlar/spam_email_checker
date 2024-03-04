@@ -1,4 +1,4 @@
-<b> Spam Detection System </b>
+<b> Spam Detection System </b> /n
 This project develops a machine learning model to classify text messages as spam non-spam by using NLP from the nltk library and machine learning, using the RandomForestClassifier algorithm from scikit-learn, the system preprocesses text data, extracts features, and trains a classifier for accurate spam detection.
 
 Features
